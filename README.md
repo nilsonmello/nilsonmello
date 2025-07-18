@@ -40,3 +40,4 @@ Currently, I'm focused on expanding my Tic Tac Toe-inspired card game project wi
 
 ---
 
+![Nilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
