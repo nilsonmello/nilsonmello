@@ -34,9 +34,9 @@ Currently, I'm focused on expanding my Tic Tac Toe-inspired card game project wi
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nilson-melo-100565291/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nilson-melo-100565291/)
 - 📨 Email: nilsonpmn@gmail.com
-- 🎮 [Itch.io](https://nilson-neto.itch.io)
+- 🎮 Itch.Io: [Itch.io](https://nilson-neto.itch.io)
 
 ---
 
